@@ -1,0 +1,8 @@
+/* external method of styling */
+
+div {
+  color: white;
+  font-size: 3rem;
+  font-family:'Courier New', Courier, monospace;
+  background-color: pink;
+}

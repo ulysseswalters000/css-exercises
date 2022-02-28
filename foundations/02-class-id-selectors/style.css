@@ -1,0 +1,18 @@
+.p-target {
+  background-color: rgb(250, 91, 91);
+  font-size: 18px;
+}
+
+.p-target.cooler {
+  font-size: 36px;
+}
+
+#fuck-an-id {
+  font-size: 6rem;
+  font-family: verdana, 'dejavu sans', sans-serif
+}
+
+#fuck-an-id2 {
+  background-color: rgb(0, 128, 0);
+  font-size: 3rem;
+}
